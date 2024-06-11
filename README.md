@@ -9,6 +9,5 @@
 5. Run WebUI for LLM Chatbot
 
 ### Other Files
-train-00000-of-00002.parquet and train-00001-of-00002.parquet - GooAQ data for training Question-Answer Pair  
 index.html - HTML file for webui  
 output folder - result of S-BERT training  
