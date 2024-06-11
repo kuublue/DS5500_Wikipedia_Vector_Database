@@ -13,3 +13,4 @@ index.html - HTML file for webui
 output folder - result of S-BERT training  
 
 GooAQ files can be obtained from https://huggingface.co/datasets/sentence-transformers/gooaq
+Gemma-2b: https://huggingface.co/google/gemma-2b
